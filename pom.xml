@@ -31,7 +31,7 @@
       <dependency>
          <groupId>org.spigotmc</groupId>
          <artifactId>spigot-api</artifactId>
-         <version>1.8-R0.1-SNAPSHOT</version>
+         <version>1.19-R0.1-SNAPSHOT</version>
          <!--change this value depending on the version or use LATEST-->
          <type>jar</type>
          <scope>provided</scope>
@@ -39,7 +39,7 @@
       <dependency>
          <groupId>org.bukkit</groupId>
          <artifactId>craftbukkit</artifactId>
-         <version>1.8.8-R0.1-SNAPSHOT</version>
+         <version>1.19-R0.1-SNAPSHOT</version>
       </dependency>
 	  <dependency>
          <groupId>net.itsrelizc.mcserver.bundler</groupId>
